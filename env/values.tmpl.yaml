@@ -10,11 +10,11 @@ cluster:
 gitops:
   gitKind: github
   server: https://github.com
-  owner: cb-kubecd
+  owner: sajid2045
 
   dev:
     repo: environment-simple-tekton
-    owner: jstrachan
+    owner: sajid2045
     server: ""
   staging:
     repo: environment-jstrachan-ad1-staging
